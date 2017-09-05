@@ -1,0 +1,38 @@
+{
+  "name": "pcadmin-form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ksc-fx/pcadmin-form.git"
+  },
+  "dependencies": {
+    "vue": "^2.2.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.4.0",
+    "css-loader": "^0.28.5",
+    "extract-text-webpack-plugin": "^2.0.0",
+    "less": "^2.7.2",
+    "less-loader": "^4.0.5",
+    "vue-loader": "^13.0.4",
+    "vue-style-loader": "^3.0.1",
+    "vue-template-compiler": "^2.4.2",
+    "webpack": "^3.5.5",
+    "webpack-dev-server": "^2.7.1"
+  },
+  "keywords": [
+    "form"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksc-fx/pcadmin-form/issues"
+  },
+  "homepage": "https://github.com/ksc-fx/pcadmin-form#readme"
+}
